@@ -1,0 +1,12 @@
+@import '../../index.scss';
+
+.invest {
+  display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: $background1;
+	padding-top: 12rem;
+	padding-bottom: 5rem;
+	width: 100vw;
+  min-height: 100vh;
+}
